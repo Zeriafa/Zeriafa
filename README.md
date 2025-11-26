@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Victor!
 
-<!--
-**Zeriafa/Zeriafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação (UNIP) e desenvolvedor iniciante com foco em Python.  
+Atualmente construindo projetos simples de automação e lógica para fortalecer fundamentos.
 
-Here are some ideas to get you started:
+### 🔧 Tecnologias
+- Python
+- Automação de arquivos e diretórios
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projetos em destaque
+- **Organizador de Arquivos (Python)**  
+  Automação que organiza arquivos por tipo.  
+  👉 https://github.com/Zeriafa/Organizador-de-Arquivos
+
+---
+
+Buscando oportunidade de **estágio em desenvolvimento**.
